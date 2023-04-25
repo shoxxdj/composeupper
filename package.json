@@ -10,7 +10,7 @@
     "yamljs": "^0.3.0"
   },
   "name": "composeupper",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A library that can be used to power on docker-compose",
   "main": "index.js",
   "devDependencies": {},
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/shoxxdj/composeupper"
+    "url": "https://github.com/shoxxdj/composeupper"
   },
   "author": "shoxxdj",
   "license": "ISC"
