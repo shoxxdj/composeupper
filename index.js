@@ -105,5 +105,6 @@ module.exports = {
 	copyFiles,
 	addLabelToDockerCompose,
 	runCompose,
-	stopCompose
+	stopCompose,
+	getLogs
 }
