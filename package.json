@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "@adius/yaml2json": "^1.0.1",
-    "docker-compose": "^0.23.13",
-    "docker-composer": "^4.0.3",
+    "docker-compose": "^0.24.2",
+    "docker-composer": "^5.0.1",
     "edit-config": "^1.8.0",
     "fs-extra": "^10.0.0",
     "unique-names-generator": "^4.6.0",
