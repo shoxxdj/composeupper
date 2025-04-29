@@ -10,7 +10,7 @@
     "yamljs": "^0.3.0"
   },
   "name": "composeupper",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A library that can be used to power on docker-compose",
   "main": "index.js",
   "devDependencies": {},
