@@ -2,7 +2,7 @@
   "dependencies": {
     "@adius/yaml2json": "^1.0.1",
     "docker-compose": "^0.24.2",
-    "docker-composer": "^5.0.1",
+    "docker-composer": "^5.2.0",
     "edit-config": "^1.8.0",
     "fs-extra": "^10.0.0",
     "unique-names-generator": "^4.6.0",
@@ -10,7 +10,7 @@
     "yamljs": "^0.3.0"
   },
   "name": "composeupper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A library that can be used to power on docker-compose",
   "main": "index.js",
   "devDependencies": {},
